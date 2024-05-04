@@ -1,0 +1,27 @@
+#chapters{
+    display: inline-block;
+    background-color: rgb(235, 235, 235);
+    height: 500px;
+    width: 500px;
+margin-right: 10px;
+border: 2px solid black;
+vertical-align: top;
+   
+}
+
+#chapter-all{
+
+    display: inline-block;
+    background-color: rgb(226, 121, 121);
+    color: white;
+    overflow: scroll;
+    height: 500px;
+    width: 500px;
+    margin-left: 150px;
+    border: 2px solid black;
+   
+}
+
+h1, h3{
+    text-align: center;
+}
