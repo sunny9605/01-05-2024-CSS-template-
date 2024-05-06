@@ -10,43 +10,61 @@ h1{
 
 #pic-one{
     display: inline-block;
+    width: 250px;
+    
  
    
    
 }
 #pic-two{
     display: inline-block;
+    width: 250px;
+    margin-left: 60px;
    
 }
 
 #pic-three{
     display: inline-block;
+    width: 250px;
+    margin-left: 60px;
 
 }
 
 #pic-four{
     display: inline-block;
+    width: 250px;
+    margin-left: 60px;
 
 }
 
 #pic-five{
     display: inline-block;
+    width: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
  
    
    
 }
 #pic-six{
     display: inline-block;
+    width: 250px;
+    margin-left: 60px;
    
 }
 
 #pic-seven{
     display: inline-block;
+    width: 250px;
+    margin-left: 60px;
 
 }
 
 #pic-eight{
     display: inline-block;
+    width: 250px;
+    margin-left: 60px;
 
 }
 h3{
@@ -68,7 +86,7 @@ p{
 
 #num a{
     text-decoration: none;
-    font-size: 60px;
+    font-size: 30px;
     color: black;
     letter-spacing: 13px;
     font-family: karma, sans-serif;
@@ -92,7 +110,8 @@ font-family: "Karma", sans-serif;
 
 #img-food{
 
-margin-left: 650px;
+margin-left: 270px;
+text-align: center;
 }
 
 #text{
@@ -113,23 +132,23 @@ margin-left: 650px;
 
 #footer1{
     display: inline-block;
-    height: 400px;
-    width: 500px;
-    font-size: 35px;
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
     vertical-align: top;
 }
 
 #footer1 p{
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     padding-bottom: 50px;
 }
 
 #footer2{
     display: inline-block;
-    height: 500px;
-    width: 550px;
-    font-size: 35px;
+    height: 300px;
+    width: 350px;
+    font-size: 20px;
     margin-left: 180px;
     margin-top: 0;
     padding-bottom: 50px;
@@ -145,15 +164,15 @@ margin-left: 650px;
 
 
 label{
-    font-size: 30px;
+    font-size: 20px;
     padding-top: 20px;
 }
 
 #footer3{
     display: inline-block;
-    height: 500px;
-    width: 550px;
-    font-size: 35px;
+    height: 200px;
+    width: 350px;
+    font-size: 20px;
     margin-left: 80px;
     padding: 0%;
     vertical-align: top;
@@ -164,7 +183,7 @@ label{
 #footer3 a{
 
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     margin-left: 10px;
     color: white;
     display: inline;
